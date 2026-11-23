@@ -1,0 +1,6 @@
+{
+  "name": "Blossom Nest Women's PG",
+  "description": "Safe, homely, and modern women's PG & co-living residence in Sholinganallur, OMR, Chennai with 24/7 biometric security, nutritious home-style meals, and high-speed Wi-Fi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
